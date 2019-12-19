@@ -1,0 +1,69 @@
+{
+    "name": "https:\/\/freebusy.io",
+    "description": "FreeBusy matches everyone's calendars and quickly finds common free time. It's free and super easy to use. Schedule a meeting with 4 people from 2 companies in 60 seconds!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28422-freebusy-io.jpg",
+    "tags": [
+        "api provider",
+        "calendars",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/httpsfreebusy-io\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "https:\/\/freebusy.io",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28422-freebusy-io.jpg",
+            "humanURL": "https:\/\/freebusy.io",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/httpsfreebusy-io-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/freebusy"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/freebusy.io\/developers"
+        },
+        {
+            "type": "FAQ",
+            "url": "https:\/\/freebusy.io\/how-it-works"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/freebusy.io\/pricing"
+        },
+        {
+            "type": "Privacy Policy",
+            "url": "https:\/\/freebusy.io\/privacy"
+        },
+        {
+            "type": "Status",
+            "url": "http:\/\/status.freebusy.io\/"
+        },
+        {
+            "type": "Terms of Service",
+            "url": "https:\/\/freebusy.io\/terms"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/AreYouFreeBusy"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/freebusy.io"
+        }
+    ]
+}
